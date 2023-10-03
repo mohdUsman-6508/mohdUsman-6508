@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdusman-6508&label=Profile%20views&color=0e75b6&style=flat" alt="mohdusman-6508" /> </p>
 
-<img align="right"  alt="programming" src="https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif">
+<img align="right"  alt="programming" src="https://media.giphy.com/media/Y1vohJMVMtjSQxmUot/giphy.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohdusman-6508" alt="mohdusman-6508" /></a> </p>
 
