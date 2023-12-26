@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **uk351675@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:)</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohd-usman-706955252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-usman-706955252" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/osman6508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="osman6508" height="30" width="40" /></a>
