@@ -1,5 +1,5 @@
 
-<h1 align="center">Marhaba 👋, I'm Mohd Usman</h1>
+<h1 align="center">Hello👋, I'm Mohd Usman</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdusman-6508&label=Profile%20views&color=0e75b6&style=flat" alt="mohdusman-6508" /> </p>
