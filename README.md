@@ -1,10 +1,13 @@
 
-<h1 align="center">Hello👋, I'm Mohd Usman</h1>
+<h1 align="center">Hello! World, I'm Mohd Usman</h1>
 <h2 align="center">A programmer</h2>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdusman-6508&label=Profile%20views&color=0e75b6&style=flat" alt="mohdusman-6508" /> </p>
 
+🚀 Passionate Programmer | 💻 Full Stack Developer | 🌐 Web Enthusiast
+
+👨‍💻 Crafting elegant solutions to complex problems.
+🌱 Constantly learning and adapting to new technologies.
+🎯 Seeking challenges that push my coding boundaries.
 
 - 📫 How to reach me **uk351675@gmail.com**
 
